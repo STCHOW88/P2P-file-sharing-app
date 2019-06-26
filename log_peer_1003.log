@@ -1,0 +1,312 @@
+04/16/2019 15:40:35: Peer 1003 makes a connection to Peer 1001.
+04/16/2019 15:40:36: Peer 1003 makes a connection to Peer 1002.
+04/16/2019 15:40:43: Peer 1003 received the have message from Peer 1002 for the piece 68
+04/16/2019 15:40:43: Peer 1003 received the have message from Peer 1002 for the piece 25
+04/16/2019 15:40:43: Peer 1003 received the have message from Peer 1002 for the piece 106
+04/16/2019 15:40:44: Peer 1003 received the have message from Peer 1002 for the piece 109
+04/16/2019 15:40:44: Peer 1003 received the have message from Peer 1002 for the piece 11
+04/16/2019 15:40:44: Peer 1003 received the have message from Peer 1002 for the piece 4
+04/16/2019 15:40:44: Peer 1003 received the have message from Peer 1002 for the piece 70
+04/16/2019 15:40:44: Peer 1003 received the have message from Peer 1002 for the piece 46
+04/16/2019 15:40:45: Peer 1003 received the have message from Peer 1002 for the piece 13
+04/16/2019 15:40:45: Peer 1003 received the have message from Peer 1002 for the piece 6
+04/16/2019 15:40:45: Peer 1003 received the have message from Peer 1002 for the piece 78
+04/16/2019 15:40:45: Peer 1003 received the have message from Peer 1002 for the piece 135
+04/16/2019 15:40:45: Peer 1003 received the have message from Peer 1002 for the piece 89
+04/16/2019 15:40:45: Peer 1003 received the have message from Peer 1002 for the piece 9
+04/16/2019 15:40:46: Peer 1003 received the have message from Peer 1002 for the piece 56
+04/16/2019 15:40:46: Peer 1003 received the have message from Peer 1002 for the piece 74
+04/16/2019 15:40:46: Peer 1003 received the have message from Peer 1002 for the piece 55
+04/16/2019 15:40:46: Peer 1003 received the have message from Peer 1002 for the piece 136
+04/16/2019 15:40:46: Peer 1003 received the have message from Peer 1002 for the piece 49
+04/16/2019 15:40:46: Peer 1003 received the have message from Peer 1002 for the piece 93
+04/16/2019 15:40:46: Peer 1003 received the have message from Peer 1002 for the piece 2
+04/16/2019 15:40:46: Peer 1003 is unchoked by Peer 1002.
+04/16/2019 15:40:46: Peer 1003 received the have message from Peer 1002 for the piece 139
+04/16/2019 15:40:46: Peer 1003 has downloaded the piece 70 from 1002. Now the number of pieces it has is 1.
+04/16/2019 15:40:46: Peer 1003 received the have message from Peer 1002 for the piece 63
+04/16/2019 15:40:46: Peer 1003 has downloaded the piece 56 from 1002. Now the number of pieces it has is 2.
+04/16/2019 15:40:46: Peer 1003 has downloaded the piece 109 from 1002. Now the number of pieces it has is 3.
+04/16/2019 15:40:46: Peer 1003 received the have message from Peer 1002 for the piece 5
+04/16/2019 15:40:46: Peer 1003 has downloaded the piece 55 from 1002. Now the number of pieces it has is 4.
+04/16/2019 15:40:46: Peer 1003 has downloaded the piece 135 from 1002. Now the number of pieces it has is 5.
+04/16/2019 15:40:46: Peer 1003 received the have message from Peer 1002 for the piece 132
+04/16/2019 15:40:46: Peer 1003 has downloaded the piece 68 from 1002. Now the number of pieces it has is 6.
+04/16/2019 15:40:46: Peer 1003 has downloaded the piece 9 from 1002. Now the number of pieces it has is 7.
+04/16/2019 15:40:47: Peer 1003 received the have message from Peer 1002 for the piece 30
+04/16/2019 15:40:47: Peer 1003 has downloaded the piece 11 from 1002. Now the number of pieces it has is 8.
+04/16/2019 15:40:47: Peer 1003 has downloaded the piece 2 from 1002. Now the number of pieces it has is 9.
+04/16/2019 15:40:47: Peer 1003 received the have message from Peer 1002 for the piece 17
+04/16/2019 15:40:47: Peer 1003 has downloaded the piece 30 from 1002. Now the number of pieces it has is 10.
+04/16/2019 15:40:47: Peer 1003 received the have message from Peer 1002 for the piece 19
+04/16/2019 15:40:47: Peer 1003 received the have message from Peer 1002 for the piece 18
+04/16/2019 15:40:47: Peer 1003 has downloaded the piece 139 from 1002. Now the number of pieces it has is 11.
+04/16/2019 15:40:47: Peer 1003 has downloaded the piece 89 from 1002. Now the number of pieces it has is 12.
+04/16/2019 15:40:47: Peer 1003 received the have message from Peer 1002 for the piece 137
+04/16/2019 15:40:47: Peer 1003 has downloaded the piece 18 from 1002. Now the number of pieces it has is 13.
+04/16/2019 15:40:47: Peer 1003 received the have message from Peer 1002 for the piece 14
+04/16/2019 15:40:47: Peer 1003 received the have message from Peer 1002 for the piece 34
+04/16/2019 15:40:47: Peer 1003 has downloaded the piece 17 from 1002. Now the number of pieces it has is 14.
+04/16/2019 15:40:47: Peer 1003 received the have message from Peer 1002 for the piece 47
+04/16/2019 15:40:47: Peer 1003 has downloaded the piece 6 from 1002. Now the number of pieces it has is 15.
+04/16/2019 15:40:47: Peer 1003 has downloaded the piece 46 from 1002. Now the number of pieces it has is 16.
+04/16/2019 15:40:47: Peer 1003 received the have message from Peer 1002 for the piece 105
+04/16/2019 15:40:47: Peer 1003 has downloaded the piece 47 from 1002. Now the number of pieces it has is 17.
+04/16/2019 15:40:47: Peer 1003 has downloaded the piece 106 from 1002. Now the number of pieces it has is 18.
+04/16/2019 15:40:48: Peer 1003 received the have message from Peer 1002 for the piece 37
+04/16/2019 15:40:48: Peer 1003 has downloaded the piece 63 from 1002. Now the number of pieces it has is 19.
+04/16/2019 15:40:48: Peer 1003 has downloaded the piece 4 from 1002. Now the number of pieces it has is 20.
+04/16/2019 15:40:48: Peer 1003 received the have message from Peer 1002 for the piece 82
+04/16/2019 15:40:48: Peer 1003 has downloaded the piece 14 from 1002. Now the number of pieces it has is 21.
+04/16/2019 15:40:48: Peer 1003 has downloaded the piece 13 from 1002. Now the number of pieces it has is 22.
+04/16/2019 15:40:48: Peer 1003 received the have message from Peer 1002 for the piece 80
+04/16/2019 15:40:48: Peer 1003 has downloaded the piece 78 from 1002. Now the number of pieces it has is 23.
+04/16/2019 15:40:48: Peer 1003 has downloaded the piece 137 from 1002. Now the number of pieces it has is 24.
+04/16/2019 15:40:48: Peer 1003 received the have message from Peer 1002 for the piece 147
+04/16/2019 15:40:48: Peer 1003 has downloaded the piece 34 from 1002. Now the number of pieces it has is 25.
+04/16/2019 15:40:48: Peer 1003 has downloaded the piece 93 from 1002. Now the number of pieces it has is 26.
+04/16/2019 15:40:48: Peer 1003 received the have message from Peer 1002 for the piece 130
+04/16/2019 15:40:48: Peer 1003 has downloaded the piece 5 from 1002. Now the number of pieces it has is 27.
+04/16/2019 15:40:48: Peer 1003 received the have message from Peer 1002 for the piece 122
+04/16/2019 15:40:48: Peer 1003 has downloaded the piece 147 from 1002. Now the number of pieces it has is 28.
+04/16/2019 15:40:48: Peer 1003 has downloaded the piece 49 from 1002. Now the number of pieces it has is 29.
+04/16/2019 15:40:48: Peer 1003 received the have message from Peer 1002 for the piece 102
+04/16/2019 15:40:48: Peer 1003 has downloaded the piece 37 from 1002. Now the number of pieces it has is 30.
+04/16/2019 15:40:48: Peer 1003 has downloaded the piece 19 from 1002. Now the number of pieces it has is 31.
+04/16/2019 15:40:48: Peer 1003 received the have message from Peer 1002 for the piece 95
+04/16/2019 15:40:48: Peer 1003 has downloaded the piece 122 from 1002. Now the number of pieces it has is 32.
+04/16/2019 15:40:48: Peer 1003 has downloaded the piece 95 from 1002. Now the number of pieces it has is 33.
+04/16/2019 15:40:48: Peer 1003 received the have message from Peer 1002 for the piece 54
+04/16/2019 15:40:48: Peer 1003 has downloaded the piece 80 from 1002. Now the number of pieces it has is 34.
+04/16/2019 15:40:49: Peer 1003 has downloaded the piece 25 from 1002. Now the number of pieces it has is 35.
+04/16/2019 15:40:49: Peer 1003 received the have message from Peer 1002 for the piece 27
+04/16/2019 15:40:49: Peer 1003 has downloaded the piece 130 from 1002. Now the number of pieces it has is 36.
+04/16/2019 15:40:49: Peer 1003 has downloaded the piece 74 from 1002. Now the number of pieces it has is 37.
+04/16/2019 15:40:49: Peer 1003 received the have message from Peer 1002 for the piece 1
+04/16/2019 15:40:49: Peer 1003 has downloaded the piece 27 from 1002. Now the number of pieces it has is 38.
+04/16/2019 15:40:49: Peer 1003 has downloaded the piece 82 from 1002. Now the number of pieces it has is 39.
+04/16/2019 15:40:49: Peer 1003 received the have message from Peer 1002 for the piece 99
+04/16/2019 15:40:49: Peer 1003 has downloaded the piece 102 from 1002. Now the number of pieces it has is 40.
+04/16/2019 15:40:49: Peer 1003 has downloaded the piece 105 from 1002. Now the number of pieces it has is 41.
+04/16/2019 15:40:49: Peer 1003 received the have message from Peer 1002 for the piece 71
+04/16/2019 15:40:49: Peer 1003 has downloaded the piece 54 from 1002. Now the number of pieces it has is 42.
+04/16/2019 15:40:49: Peer 1003 has downloaded the piece 99 from 1002. Now the number of pieces it has is 43.
+04/16/2019 15:40:49: Peer 1003 received the have message from Peer 1002 for the piece 114
+04/16/2019 15:40:49: Peer 1003 has downloaded the piece 71 from 1002. Now the number of pieces it has is 44.
+04/16/2019 15:40:49: Peer 1003 has downloaded the piece 136 from 1002. Now the number of pieces it has is 45.
+04/16/2019 15:40:49: Peer 1003 received the have message from Peer 1002 for the piece 33
+04/16/2019 15:40:49: Peer 1003 has downloaded the piece 114 from 1002. Now the number of pieces it has is 46.
+04/16/2019 15:40:49: Peer 1003 has downloaded the piece 33 from 1002. Now the number of pieces it has is 47.
+04/16/2019 15:40:49: Peer 1003 received the have message from Peer 1002 for the piece 7
+04/16/2019 15:40:49: Peer 1003 has downloaded the piece 132 from 1002. Now the number of pieces it has is 48.
+04/16/2019 15:40:49: Peer 1003 has downloaded the piece 1 from 1002. Now the number of pieces it has is 49.
+04/16/2019 15:40:49: Peer 1003 received the have message from Peer 1002 for the piece 20
+04/16/2019 15:40:49: Peer 1003 has downloaded the piece 7 from 1002. Now the number of pieces it has is 50.
+04/16/2019 15:40:49: Peer 1003 has downloaded the piece 20 from 1002. Now the number of pieces it has is 51.
+04/16/2019 15:40:49: Peer 1003 received the have message from Peer 1002 for the piece 124
+04/16/2019 15:40:50: Peer 1003 received the have message from Peer 1002 for the piece 21
+04/16/2019 15:40:50: Peer 1003 received the have message from Peer 1002 for the piece 10
+04/16/2019 15:40:50: Peer 1003 received the have message from Peer 1002 for the piece 3
+04/16/2019 15:40:50: Peer 1003 received the have message from Peer 1002 for the piece 131
+04/16/2019 15:40:50: Peer 1003 received the have message from Peer 1002 for the piece 127
+04/16/2019 15:40:50: Peer 1003 received the have message from Peer 1002 for the piece 26
+04/16/2019 15:40:50: Peer 1003 received the have message from Peer 1002 for the piece 52
+04/16/2019 15:40:50: Peer 1003 received the have message from Peer 1002 for the piece 91
+04/16/2019 15:40:50: Peer 1003 received the have message from Peer 1002 for the piece 12
+04/16/2019 15:40:51: Peer 1003 received the have message from Peer 1002 for the piece 118
+04/16/2019 15:40:51: Peer 1003 received the have message from Peer 1002 for the piece 15
+04/16/2019 15:40:51: Peer 1003 received the have message from Peer 1002 for the piece 148
+04/16/2019 15:40:51: Peer 1003 received the have message from Peer 1002 for the piece 94
+04/16/2019 15:40:51: Peer 1003 has the preferred neighbours 1001.
+04/16/2019 15:40:51: Peer 1003 received the have message from Peer 1002 for the piece 31
+04/16/2019 15:40:51: Peer 1003 received the have message from Peer 1002 for the piece 0
+04/16/2019 15:40:51: Peer 1003 received the have message from Peer 1002 for the piece 50
+04/16/2019 15:40:51: Peer 1003 received the have message from Peer 1002 for the piece 60
+04/16/2019 15:40:51: Peer 1003 received the have message from Peer 1002 for the piece 138
+04/16/2019 15:40:52: Peer 1003 received the have message from Peer 1002 for the piece 96
+04/16/2019 15:40:52: Peer 1003 received the have message from Peer 1002 for the piece 119
+04/16/2019 15:40:52: Peer 1003 received the have message from Peer 1002 for the piece 39
+04/16/2019 15:40:52: Peer 1003 received the have message from Peer 1002 for the piece 98
+04/16/2019 15:40:52: Peer 1003 received the have message from Peer 1002 for the piece 69
+04/16/2019 15:40:52: Peer 1003 is unchoked by Peer 1001.
+04/16/2019 15:40:52: Peer 1003 received the have message from Peer 1002 for the piece 76
+04/16/2019 15:40:52: Peer 1003 has downloaded the piece 51 from 1001. Now the number of pieces it has is 52.
+04/16/2019 15:40:52: Peer 1003 received the interested message from Peer 1002.
+04/16/2019 15:40:52: Peer 1003 has downloaded the piece 104 from 1001. Now the number of pieces it has is 53.
+04/16/2019 15:40:52: Peer 1003 received the have message from Peer 1002 for the piece 121
+04/16/2019 15:40:52: Peer 1003 has downloaded the piece 53 from 1001. Now the number of pieces it has is 54.
+04/16/2019 15:40:52: Peer 1003 has downloaded the piece 45 from 1001. Now the number of pieces it has is 55.
+04/16/2019 15:40:52: Peer 1003 received the have message from Peer 1002 for the piece 40
+04/16/2019 15:40:52: Peer 1003 has downloaded the piece 129 from 1001. Now the number of pieces it has is 56.
+04/16/2019 15:40:52: Peer 1003 has downloaded the piece 131 from 1001. Now the number of pieces it has is 57.
+04/16/2019 15:40:52: Peer 1003 received the have message from Peer 1002 for the piece 16
+04/16/2019 15:40:52: Peer 1003 has downloaded the piece 88 from 1001. Now the number of pieces it has is 58.
+04/16/2019 15:40:53: Peer 1003 has downloaded the piece 113 from 1001. Now the number of pieces it has is 59.
+04/16/2019 15:40:53: Peer 1003 received the have message from Peer 1002 for the piece 45
+04/16/2019 15:40:53: Peer 1003 has downloaded the piece 111 from 1001. Now the number of pieces it has is 60.
+04/16/2019 15:40:53: Peer 1003 has downloaded the piece 87 from 1001. Now the number of pieces it has is 61.
+04/16/2019 15:40:53: Peer 1003 received the have message from Peer 1002 for the piece 59
+04/16/2019 15:40:53: Peer 1003 has downloaded the piece 24 from 1001. Now the number of pieces it has is 62.
+04/16/2019 15:40:53: Peer 1003 has downloaded the piece 140 from 1001. Now the number of pieces it has is 63.
+04/16/2019 15:40:53: Peer 1003 received the have message from Peer 1002 for the piece 44
+04/16/2019 15:40:53: Peer 1003 has downloaded the piece 81 from 1001. Now the number of pieces it has is 64.
+04/16/2019 15:40:53: Peer 1003 received the have message from Peer 1002 for the piece 65
+04/16/2019 15:40:53: Peer 1003 has downloaded the piece 39 from 1001. Now the number of pieces it has is 65.
+04/16/2019 15:40:53: Peer 1003 has downloaded the piece 22 from 1001. Now the number of pieces it has is 66.
+04/16/2019 15:40:53: Peer 1003 received the have message from Peer 1002 for the piece 36
+04/16/2019 15:40:53: Peer 1003 has downloaded the piece 119 from 1001. Now the number of pieces it has is 67.
+04/16/2019 15:40:53: Peer 1003 has downloaded the piece 146 from 1001. Now the number of pieces it has is 68.
+04/16/2019 15:40:53: Peer 1003 received the have message from Peer 1002 for the piece 8
+04/16/2019 15:40:53: Peer 1003 has downloaded the piece 29 from 1001. Now the number of pieces it has is 69.
+04/16/2019 15:40:53: Peer 1003 has downloaded the piece 12 from 1001. Now the number of pieces it has is 70.
+04/16/2019 15:40:53: Peer 1003 received the have message from Peer 1002 for the piece 115
+04/16/2019 15:40:53: Peer 1003 has downloaded the piece 21 from 1001. Now the number of pieces it has is 71.
+04/16/2019 15:40:53: Peer 1003 has downloaded the piece 35 from 1001. Now the number of pieces it has is 72.
+04/16/2019 15:40:53: Peer 1003 received the have message from Peer 1002 for the piece 67
+04/16/2019 15:40:53: Peer 1003 has downloaded the piece 44 from 1001. Now the number of pieces it has is 73.
+04/16/2019 15:40:53: Peer 1003 has downloaded the piece 101 from 1001. Now the number of pieces it has is 74.
+04/16/2019 15:40:54: Peer 1003 received the have message from Peer 1002 for the piece 120
+04/16/2019 15:40:54: Peer 1003 has downloaded the piece 42 from 1001. Now the number of pieces it has is 75.
+04/16/2019 15:40:54: Peer 1003 has downloaded the piece 142 from 1001. Now the number of pieces it has is 76.
+04/16/2019 15:40:54: Peer 1003 received the have message from Peer 1002 for the piece 134
+04/16/2019 15:40:54: Peer 1003 has downloaded the piece 120 from 1001. Now the number of pieces it has is 77.
+04/16/2019 15:40:54: Peer 1003 has downloaded the piece 112 from 1001. Now the number of pieces it has is 78.
+04/16/2019 15:40:54: Peer 1003 received the have message from Peer 1002 for the piece 73
+04/16/2019 15:40:54: Peer 1003 has downloaded the piece 75 from 1001. Now the number of pieces it has is 79.
+04/16/2019 15:40:54: Peer 1003 has downloaded the piece 36 from 1001. Now the number of pieces it has is 80.
+04/16/2019 15:40:54: Peer 1003 received the have message from Peer 1002 for the piece 87
+04/16/2019 15:40:54: Peer 1003 has downloaded the piece 8 from 1001. Now the number of pieces it has is 81.
+04/16/2019 15:40:54: Peer 1003 has downloaded the piece 76 from 1001. Now the number of pieces it has is 82.
+04/16/2019 15:40:54: Peer 1003 received the have message from Peer 1002 for the piece 110
+04/16/2019 15:40:54: Peer 1003 has downloaded the piece 58 from 1001. Now the number of pieces it has is 83.
+04/16/2019 15:40:54: Peer 1003 has downloaded the piece 41 from 1001. Now the number of pieces it has is 84.
+04/16/2019 15:40:54: Peer 1003 received the have message from Peer 1002 for the piece 90
+04/16/2019 15:40:54: Peer 1003 has downloaded the piece 72 from 1001. Now the number of pieces it has is 85.
+04/16/2019 15:40:54: Peer 1003 has downloaded the piece 61 from 1001. Now the number of pieces it has is 86.
+04/16/2019 15:40:54: Peer 1003 has downloaded the piece 38 from 1001. Now the number of pieces it has is 87.
+04/16/2019 15:40:54: Peer 1003 received the have message from Peer 1002 for the piece 146
+04/16/2019 15:40:54: Peer 1003 has downloaded the piece 43 from 1001. Now the number of pieces it has is 88.
+04/16/2019 15:40:54: Peer 1003 received the have message from Peer 1002 for the piece 104
+04/16/2019 15:40:54: Peer 1003 has downloaded the piece 40 from 1001. Now the number of pieces it has is 89.
+04/16/2019 15:40:54: Peer 1003 has downloaded the piece 145 from 1001. Now the number of pieces it has is 90.
+04/16/2019 15:40:55: Peer 1003 received the have message from Peer 1002 for the piece 42
+04/16/2019 15:40:55: Peer 1003 has downloaded the piece 50 from 1001. Now the number of pieces it has is 91.
+04/16/2019 15:40:55: Peer 1003 has downloaded the piece 31 from 1001. Now the number of pieces it has is 92.
+04/16/2019 15:40:55: Peer 1003 received the have message from Peer 1002 for the piece 51
+04/16/2019 15:40:55: Peer 1003 has downloaded the piece 79 from 1001. Now the number of pieces it has is 93.
+04/16/2019 15:40:55: Peer 1003 has downloaded the piece 138 from 1001. Now the number of pieces it has is 94.
+04/16/2019 15:40:55: Peer 1003 received the have message from Peer 1002 for the piece 103
+04/16/2019 15:40:55: Peer 1003 has downloaded the piece 148 from 1001. Now the number of pieces it has is 95.
+04/16/2019 15:40:55: Peer 1003 has downloaded the piece 123 from 1001. Now the number of pieces it has is 96.
+04/16/2019 15:40:55: Peer 1003 received the have message from Peer 1002 for the piece 125
+04/16/2019 15:40:55: Peer 1003 has downloaded the piece 52 from 1001. Now the number of pieces it has is 97.
+04/16/2019 15:40:55: Peer 1003 has downloaded the piece 92 from 1001. Now the number of pieces it has is 98.
+04/16/2019 15:40:55: Peer 1003 received the have message from Peer 1002 for the piece 84
+04/16/2019 15:40:55: Peer 1003 has downloaded the piece 121 from 1001. Now the number of pieces it has is 99.
+04/16/2019 15:40:55: Peer 1003 received the have message from Peer 1002 for the piece 62
+04/16/2019 15:40:55: Peer 1003 has downloaded the piece 116 from 1001. Now the number of pieces it has is 100.
+04/16/2019 15:40:55: Peer 1003 has downloaded the piece 28 from 1001. Now the number of pieces it has is 101.
+04/16/2019 15:40:55: Peer 1003 received the have message from Peer 1002 for the piece 85
+04/16/2019 15:40:55: Peer 1003 has downloaded the piece 62 from 1001. Now the number of pieces it has is 102.
+04/16/2019 15:40:55: Peer 1003 has downloaded the piece 144 from 1001. Now the number of pieces it has is 103.
+04/16/2019 15:40:55: Peer 1003 received the have message from Peer 1002 for the piece 126
+04/16/2019 15:40:56: Peer 1003 has downloaded the piece 77 from 1001. Now the number of pieces it has is 104.
+04/16/2019 15:40:56: Peer 1003 has downloaded the piece 107 from 1001. Now the number of pieces it has is 105.
+04/16/2019 15:40:56: Peer 1003 received the have message from Peer 1002 for the piece 72
+04/16/2019 15:40:56: Peer 1003 has the optimistically unchoked neighbour 1002.
+04/16/2019 15:40:56: Peer 1003 has downloaded the piece 100 from 1001. Now the number of pieces it has is 106.
+04/16/2019 15:40:56: Peer 1003 has downloaded the piece 65 from 1001. Now the number of pieces it has is 107.
+04/16/2019 15:40:56: Peer 1003 received the have message from Peer 1002 for the piece 24
+04/16/2019 15:40:56: Peer 1003 received the have message from Peer 1002 for the piece 53
+04/16/2019 15:40:56: Peer 1003 has downloaded the piece 124 from 1001. Now the number of pieces it has is 108.
+04/16/2019 15:40:56: Peer 1003 received the have message from Peer 1002 for the piece 113
+04/16/2019 15:40:56: Peer 1003 has downloaded the piece 73 from 1001. Now the number of pieces it has is 109.
+04/16/2019 15:40:56: Peer 1003 received the have message from Peer 1002 for the piece 144
+04/16/2019 15:40:56: Peer 1003 has downloaded the piece 85 from 1001. Now the number of pieces it has is 110.
+04/16/2019 15:40:56: Peer 1003 received the have message from Peer 1002 for the piece 41
+04/16/2019 15:40:56: Peer 1003 received the have message from Peer 1002 for the piece 77
+04/16/2019 15:40:56: Peer 1003 received the have message from Peer 1002 for the piece 112
+04/16/2019 15:40:56: Peer 1003 has downloaded the piece 60 from 1001. Now the number of pieces it has is 111.
+04/16/2019 15:40:56: Peer 1003 received the have message from Peer 1002 for the piece 140
+04/16/2019 15:40:56: Peer 1003 has downloaded the piece 97 from 1001. Now the number of pieces it has is 112.
+04/16/2019 15:40:56: Peer 1003 received the have message from Peer 1002 for the piece 61
+04/16/2019 15:40:56: Peer 1003 received the have message from Peer 1002 for the piece 61
+04/16/2019 15:40:57: Peer 1003 received the have message from Peer 1002 for the piece 28
+04/16/2019 15:40:57: Peer 1003 has downloaded the piece 0 from 1001. Now the number of pieces it has is 113.
+04/16/2019 15:40:57: Peer 1003 received the have message from Peer 1002 for the piece 101
+04/16/2019 15:40:57: Peer 1003 received the have message from Peer 1002 for the piece 145
+04/16/2019 15:40:57: Peer 1003 has downloaded the piece 126 from 1001. Now the number of pieces it has is 114.
+04/16/2019 15:40:57: Peer 1003 received the have message from Peer 1002 for the piece 111
+04/16/2019 15:40:57: Peer 1003 received the have message from Peer 1002 for the piece 97
+04/16/2019 15:40:57: Peer 1003 received the have message from Peer 1002 for the piece 43
+04/16/2019 15:40:57: Peer 1003 has downloaded the piece 91 from 1001. Now the number of pieces it has is 115.
+04/16/2019 15:40:57: Peer 1003 received the have message from Peer 1002 for the piece 123
+04/16/2019 15:40:57: Peer 1003 received the have message from Peer 1002 for the piece 81
+04/16/2019 15:40:57: Peer 1003 has downloaded the piece 125 from 1001. Now the number of pieces it has is 116.
+04/16/2019 15:40:57: Peer 1003 received the have message from Peer 1002 for the piece 81
+04/16/2019 15:40:57: Peer 1003 received the have message from Peer 1002 for the piece 141
+04/16/2019 15:40:57: Peer 1003 received the have message from Peer 1002 for the piece 35
+04/16/2019 15:40:57: Peer 1003 has downloaded the piece 86 from 1001. Now the number of pieces it has is 117.
+04/16/2019 15:40:57: Peer 1003 received the have message from Peer 1002 for the piece 107
+04/16/2019 15:40:57: Peer 1003 received the have message from Peer 1002 for the piece 88
+04/16/2019 15:40:57: Peer 1003 received the have message from Peer 1002 for the piece 22
+04/16/2019 15:40:57: Peer 1003 has downloaded the piece 127 from 1001. Now the number of pieces it has is 118.
+04/16/2019 15:40:57: Peer 1003 received the have message from Peer 1002 for the piece 58
+04/16/2019 15:40:57: Peer 1003 received the have message from Peer 1002 for the piece 128
+04/16/2019 15:40:57: Peer 1003 received the have message from Peer 1002 for the piece 75
+04/16/2019 15:40:57: Peer 1003 has downloaded the piece 98 from 1001. Now the number of pieces it has is 119.
+04/16/2019 15:40:57: Peer 1003 received the have message from Peer 1002 for the piece 29
+04/16/2019 15:40:57: Peer 1003 received the have message from Peer 1002 for the piece 92
+04/16/2019 15:40:57: Peer 1003 received the have message from Peer 1002 for the piece 79
+04/16/2019 15:40:57: Peer 1003 has downloaded the piece 94 from 1001. Now the number of pieces it has is 120.
+04/16/2019 15:40:57: Peer 1003 received the have message from Peer 1002 for the piece 38
+04/16/2019 15:40:57: Peer 1003 has downloaded the piece 32 from 1001. Now the number of pieces it has is 121.
+04/16/2019 15:40:57: Peer 1003 received the have message from Peer 1002 for the piece 100
+04/16/2019 15:40:57: Peer 1003 received the have message from Peer 1002 for the piece 129
+04/16/2019 15:40:57: Peer 1003 has downloaded the piece 117 from 1001. Now the number of pieces it has is 122.
+04/16/2019 15:40:57: Peer 1003 received the have message from Peer 1002 for the piece 116
+04/16/2019 15:40:57: Peer 1003 received the have message from Peer 1002 for the piece 129
+04/16/2019 15:40:57: Peer 1003 received the have message from Peer 1002 for the piece 142
+04/16/2019 15:40:57: Peer 1003 has downloaded the piece 26 from 1001. Now the number of pieces it has is 123.
+04/16/2019 15:40:57: Peer 1003 received the have message from Peer 1002 for the piece 86
+04/16/2019 15:40:57: Peer 1003 received the have message from Peer 1002 for the piece 57
+04/16/2019 15:40:57: Peer 1003 received the have message from Peer 1002 for the piece 117
+04/16/2019 15:40:57: Peer 1003 has downloaded the piece 83 from 1001. Now the number of pieces it has is 124.
+04/16/2019 15:40:57: Peer 1003 received the have message from Peer 1002 for the piece 32
+04/16/2019 15:40:57: Peer 1003 has downloaded the piece 134 from 1001. Now the number of pieces it has is 125.
+04/16/2019 15:40:57: Peer 1003 received the not interested message from Peer 1002.
+04/16/2019 15:40:57: Peer 1003 received the have message from Peer 1002 for the piece 108
+04/16/2019 15:40:57: Peer 1003 received the interested message from Peer 1002.
+04/16/2019 15:40:58: Peer 1003 has downloaded the piece 67 from 1001. Now the number of pieces it has is 126.
+04/16/2019 15:40:58: Peer 1003 received the have message from Peer 1002 for the piece 48
+04/16/2019 15:40:58: Peer 1003 has downloaded the piece 128 from 1001. Now the number of pieces it has is 127.
+04/16/2019 15:40:58: Peer 1003 has downloaded the piece 48 from 1001. Now the number of pieces it has is 128.
+04/16/2019 15:40:58: Peer 1003 received the have message from Peer 1002 for the piece 64
+04/16/2019 15:40:58: Peer 1003 has downloaded the piece 3 from 1001. Now the number of pieces it has is 129.
+04/16/2019 15:40:58: Peer 1003 has downloaded the piece 59 from 1001. Now the number of pieces it has is 130.
+04/16/2019 15:40:58: Peer 1003 received the have message from Peer 1002 for the piece 66
+04/16/2019 15:40:58: Peer 1003 has downloaded the piece 69 from 1001. Now the number of pieces it has is 131.
+04/16/2019 15:40:58: Peer 1003 has downloaded the piece 96 from 1001. Now the number of pieces it has is 132.
+04/16/2019 15:40:58: Peer 1003 received the have message from Peer 1002 for the piece 143
+04/16/2019 15:40:58: Peer 1003 has downloaded the piece 110 from 1001. Now the number of pieces it has is 133.
+04/16/2019 15:40:58: Peer 1003 has downloaded the piece 143 from 1001. Now the number of pieces it has is 134.
+04/16/2019 15:40:58: Peer 1003 received the have message from Peer 1002 for the piece 133
+04/16/2019 15:40:58: Peer 1003 has downloaded the piece 23 from 1001. Now the number of pieces it has is 135.
+04/16/2019 15:40:58: Peer 1003 received the have message from Peer 1002 for the piece 23
+04/16/2019 15:40:58: Peer 1003 has downloaded the piece 103 from 1001. Now the number of pieces it has is 136.
+04/16/2019 15:40:58: Peer 1003 has downloaded the piece 10 from 1001. Now the number of pieces it has is 137.
+04/16/2019 15:40:58: Peer 1003 received the have message from Peer 1002 for the piece 83
+04/16/2019 15:40:58: Peer 1003 received the not interested message from Peer 1002.
+04/16/2019 15:40:58: Peer 1003 has downloaded the piece 16 from 1001. Now the number of pieces it has is 138.
+04/16/2019 15:40:58: Peer 1003 has downloaded the piece 90 from 1001. Now the number of pieces it has is 139.
+04/16/2019 15:40:58: Peer 1003 has downloaded the piece 66 from 1001. Now the number of pieces it has is 140.
+04/16/2019 15:40:58: Peer 1003 has downloaded the piece 118 from 1001. Now the number of pieces it has is 141.
+04/16/2019 15:40:59: Peer 1003 has downloaded the piece 108 from 1001. Now the number of pieces it has is 142.
+04/16/2019 15:40:59: Peer 1003 has downloaded the piece 115 from 1001. Now the number of pieces it has is 143.
+04/16/2019 15:40:59: Peer 1003 has downloaded the piece 15 from 1001. Now the number of pieces it has is 144.
+04/16/2019 15:40:59: Peer 1003 has downloaded the piece 57 from 1001. Now the number of pieces it has is 145.
+04/16/2019 15:40:59: Peer 1003 has downloaded the piece 133 from 1001. Now the number of pieces it has is 146.
+04/16/2019 15:40:59: Peer 1003 has downloaded the piece 84 from 1001. Now the number of pieces it has is 147.
+04/16/2019 15:40:59: Peer 1003 has downloaded the piece 141 from 1001. Now the number of pieces it has is 148.
+04/16/2019 15:40:59: Peer 1003 has downloaded the piece 64 from 1001. Now the number of pieces it has is 149.
+04/16/2019 15:40:59: Peer 1003 has downloaded the complete file.
